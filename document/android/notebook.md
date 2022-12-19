@@ -1,4 +1,4 @@
-[TOP](/README.md)
+[TOP](/document/android/topmenu.md)
 
 # Usage
 The notebook manages documents in a hierarchical structure.
@@ -12,11 +12,11 @@ You can add a notebook by pressing the plus button at the bottom of the screen a
 Select QRCode load when registering a shared note.
 Select a notebook to open it.
 
-<img src="/screen/add1.jpg" width="150" />
+<img src="/screen/android/add1.jpg" width="150" />
 
 ---
 
-<img src="/screen/add2.jpg" width="150" />
+<img src="/screen/android/add2.jpg" width="150" />
 
 ### pocket book name
 First, give this notebook a name.

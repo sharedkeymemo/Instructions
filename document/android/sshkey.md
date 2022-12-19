@@ -1,17 +1,37 @@
-[TOP](/README.md)
+[TOP](/document/android/topmenu.md)
 
 # SSH key
+
+<img src="/screen/android/ssh2.jpg" width="150" />
 
 An SSH key is the information you need to securely communicate with your Git repository.
 SSH keys are managed as a pair of a private key and a public key.
 By registering the public key in the Git repository, you can communicate with the target private key.
 By selecting SSH Keys from the bottom menu, you will be brought to the SSH Keys screen.
 
-<img src="/screen/ssh2.jpg" width="150" />
+<img src="/screen/android/ssh3.jpg" width="150" />
+
+* Export publickey
+
+  Output the public key.
+  It is used to get the owner of the repository to register.
+
+* Edit
+
+  Used for renaming or changing keys.
+
+* Re generation
+
+  Rebuild the key.
+  Rebuilding requires re-registration in the repository.
+
+* Delete
+
+  Delete the key.
 
 ---
 
-<img src="/screen/ssh1.jpg" width="150" />
+<img src="/screen/android/ssh1.jpg" width="150" />
 
 # create
 

@@ -1,4 +1,4 @@
-[TOP](/README.md)
+[TOP](/document/android/topmenu.md)
 
 # Overview
 
@@ -6,7 +6,7 @@ It is a document management application with an encryption function for managing
 You can manage markdown and text memos on a file-by-file basis.
 Documents such as various memos, memorandums, reports, passwords, confidential information, etc. can be safely shared with other devices in sync.
 
-<img src="/screen/overview.jpg" width="150" />
+<img src="/screen/android/overview.jpg" width="150" />
 
 Notes can be synced and securely shared across multiple devices.
 It is possible to encrypt each individual document, and it is possible to interweave and manage public documents and private documents.

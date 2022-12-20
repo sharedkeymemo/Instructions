@@ -45,15 +45,17 @@ In most cases, SSH key scheme is good.
 When connecting with HTTPS, you can use the user password method.
 
 * User
- 
- Specify User Only
+
+  Specify User Only
+<br>
 
 * UserPassword
 
- Specify user and password
+  Specify user and password
+<br>
 
 * SSH
 
- Authentication with SSH keys
+  Authentication with SSH keys
 On the SSH registration screen, select a registered key.
 If you use Github integration, you don't have to select it.
